@@ -1,2 +1,2 @@
 # FirstRepo
-this is first file in githib    
+Naveen Tanuku - I'm new to gtihub
